@@ -1,0 +1,5 @@
+camino_mas rapido,Londres,Sidney
+camino_mas barato,Londres,Sidney
+camino_escalas Londres,Dubai
+camino_escalas Londres,Sidney
+centralidad 5
